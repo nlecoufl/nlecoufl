@@ -22,40 +22,34 @@
 - 🔭 I’m currently working on DeFi protocol & NFT entertainment platform :grin:
 - 🌱 I’m currently learning Rust & Go
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🧗 I try to: Increase my knowledge on cryptocurrencies
+- 🧗 I try to increase my knowledge on cryptocurrencies
 - 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <br>
 
-### Programming Languages: 
+### ⌨️ Programming Languages
 
 [![languages](https://skillicons.dev/icons?i=solidity,ts,js,py,go,rust)](https://skillicons.dev)
 
-
-### Frontend Development: 
-
-[![front](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
-
-
-### Backend Development: 
+### ⚙️ Backend Development
 
 [![back](https://skillicons.dev/icons?i=express,nestjs,graphql,react,nextjs,nodejs,nginx,kafka)](https://skillicons.dev)
 
+### 🎨 Frontend Development 
 
-### Database: 
+[![front](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind)](https://skillicons.dev)
+
+### 💾 Database
 
 [![back](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite)](https://skillicons.dev)
 
-
-### Devops: 
+### 🚀 Devops 
 
 [![back](https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,bash)](https://skillicons.dev)
 
-
-
-### :zap: Github Stats
+### ⚡ Github Stats
 
 <div align="center">
   <br>
