@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Learning, always"</b></h4>
+  <h4 align="center"><b>"Perpetual Learner"</b></h4>
 </p>
 
 
